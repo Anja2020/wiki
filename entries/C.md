@@ -1,0 +1,3 @@
+# C
+
+This is a page about the programming language C ...
